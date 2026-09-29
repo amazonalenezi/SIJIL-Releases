@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0-rc.3",
-  "notes": "SIJIL 1.0.0-rc.3",
-  "pub_date": "2026-09-29T07:17:12.6220505+00:00",
+  "version": "1.0.0",
+  "notes": "الإصدار المستقر الأول من سِجِل 1.0.0: أرشفة محلية مشفرة، صلاحيات مدققة، وتحديث يدوي موقّع.",
+  "pub_date": "2026-09-29T14:25:34.0194948+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMWcvaDduL21MTEV5NFNOaHpUVjlLYWk4VjhlNlZKbmY4M0ltTmRYcWFYN085WnJOeTNnelJsTlhPQm5rU2NHMWY5WnlDdGVuT2piTUpwWXhtcnIva0xDMEl1NmlQWWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjY2MjI4CWZpbGU6U0lKSUxfMS4wLjAtcmMuM194NjQtc2V0dXAuZXhlCmhST2hYeXJxU2luUVVxSWdkYzV1UzJXT2Y4TUx6SHptRkYrZjdsN05Uck5ob1VVbFhFSTI1elM3YUNqUzdUTENJTk1nekVjdkxFV2VhTnJWVFFPakN3PT0K",
-      "url": "https://github.com/amazonalenezi/SIJIL-Releases/releases/download/v1.0.0-rc.3/SIJIL_1.0.0-rc.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMWcvaDduL21MTEtZUVJPNXdheVBaajBnZk5XTnhadUVGUSttdzVOanhFTERKS1M4RW1xSFdmVmlxcFJ0M0JEQWVUTFVDaEVXWmxhejFKODA3aFlaOHVSVy9MWE45NWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjkxOTMxCWZpbGU6U0lKSUxfMS4wLjBfeDY0LXNldHVwLmV4ZQptZDFmRUJEZlpiRDBYSHhDcmt0eEFoMDI3R1BpbHFpa3gvZjhMSWRtUnpNNk5mKzZsSDFOblM5OTU2ZUhXVU01clRCamgwYnM4Q0JoVk5UV3daTzBCZz09Cg==",
+      "url": "https://github.com/amazonalenezi/SIJIL-Releases/releases/download/v1.0.0/SIJIL_1.0.0_x64-setup.exe"
     }
   }
 }
