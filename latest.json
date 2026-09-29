@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0-rc.2",
+  "notes": "SIJIL 1.0.0-rc.2",
+  "pub_date": "2026-09-29T06:37:24.3523400+00:00",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMWcvaDduL21MTEZyODJFYnZ2NFByNVJMcG1WVXFqVWtBM2dXMFpLQStWU2lNdXhlTEZVZTZCMTkxbHYrSWsxZzhvRjBkK3R6NDRQTmJvMTZjcGlSSU1HVjlCWWpMM2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjYzODQwCWZpbGU6U0lKSUxfMS4wLjAtcmMuMl94NjQtc2V0dXAuZXhlCjJXMThVL1BNaVFtTktSNUEzNURObDBodExYSVpjS3NEV3hPR1pzQVl1dEhaQlJuMTBEV2h6RVN0ME8vWnQ0VTMyRERCOHRkRmFyd1pLaUh4Y0tuU0FBPT0K",
+      "url": "https://github.com/amazonalenezi/SIJIL-Releases/releases/download/v1.0.0-rc.2/SIJIL_1.0.0-rc.2_x64-setup.exe"
+    }
+  }
+}
