@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.0-rc.3",
-    "notes":  "QA ONLY: SIJIL RC upgrade acceptance 1.0.0-rc.3",
-    "pub_date":  "2026-09-29T06:46:18.3386494+00:00",
+    "version":  "1.0.0-rc.2",
+    "notes":  "QA ONLY: downgrade probe (must not be offered)",
+    "pub_date":  "2026-09-29T06:52:35.9474051+00:00",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMWcvaDduL21MTEFReXlCL1dnREVlMjJNTW43bE5CNGphZUQrT3d5bStsd0licDZaODdEMStFSUw5WEJFUGovSlhIanVReFFZUi9WTjFxSzl5NGdlOWZzL3hkMEhHNEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjY0MzE3CWZpbGU6U0lKSUwgUkMgVXBncmFkZSBRQV8xLjAuMC1yYy4zX3g2NC1zZXR1cC5leGUKbVU1L3l5Sk9kaXlXRnlYbklWQUh0MmVOaEdDd1hpYkRnSlpIanVTY0MvOVQ0UUc2YTFNRUhRYkFWWCtKSXJILzVTb01DUklid2J1ZDJVSTRVcjN0RFE9PQo=",
-                                             "url":  "https://github.com/amazonalenezi/SIJIL-Releases/releases/download/qa-rc-upgrade-1.0.0-rc.3/SIJIL-RC-Upgrade-QA_1.0.0-rc.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMWcvaDduL21MTEs4K2o1cXdzZTNEMlArZXpRdVIwZEVCY1dmQU56ZEVLa1c3ZVNlUDFYV2E5OEpPS2Z5TTVPMEF0YS9COGNudlNjMktLRnVUNnp6WWdTY1RlM1g4N3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjYxOTc3CWZpbGU6U0lKSUwgUkMgVXBncmFkZSBRQV8xLjAuMC1yYy4yX3g2NC1zZXR1cC5leGUKZFh5UDBvMWhWZFAzL1Q3WE9PV0JaT1NtOUsrcGlnd3NtRjNnaHZ2aDFKWFpLRGpnclhwVk8zK1BMRzFOdFRPM0lRNUtwbXNJSnRjaHQxVmVNOUV1QVE9PQo=",
+                                             "url":  "https://github.com/amazonalenezi/SIJIL-Releases/releases/download/qa-rc-upgrade-1.0.0-rc.3/SIJIL-RC-Upgrade-QA_1.0.0-rc.2_x64-setup.exe"
                                          }
                   }
 }
