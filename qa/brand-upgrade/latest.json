@@ -1,0 +1,11 @@
+{
+    "version":  "1.0.1",
+    "notes":  "QA ONLY: SIJIL 1.0.1 branding upgrade acceptance",
+    "pub_date":  "2026-09-30T04:51:43.2928096+00:00",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMWcvaDduL21MTEpreFBESytNdFdmTVlaSTJUR1Foa3FSU05IVi81dVpPV3dLVmV4RzhyWkl4TGJBM21vTzdBTFJMdUJlR3d6ZE4rUDR4OFY2MWNNOEVmblNSR3RKZFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzQzODUxCWZpbGU6U0lKSUwgUkMgVXBncmFkZSBRQV8xLjAuMV94NjQtc2V0dXAuZXhlCmcxK2lUUXFZaVVhNHhRNmx3NFFYeDI2M0hZQTBMc3BreE1heklVVThpZzlpSjRtaW1KVUZUK1NIZ2x5cHJZclZISEtHTTRkaHlwTDRTMzBQZ0hPQUFBPT0K",
+                                             "url":  "https://github.com/amazonalenezi/SIJIL-Releases/releases/download/qa-brand-upgrade-1.0.1/SIJIL-RC-Upgrade-QA_1.0.1_x64-setup.exe"
+                                         }
+                  }
+}
