@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "SIJIL 1.0.1",
-  "pub_date": "2026-09-30T04:28:34.8965468+00:00",
+  "version": "1.0.2",
+  "notes": "SIJIL 1.0.2",
+  "pub_date": "2026-10-03T15:48:55.7582498+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMWcvaDduL21MTEUyL1hPeGtzdkZoRlNNcE90VERMbThqdmt2VzZCMDdWZTJOcm93UmRsbUQyVVZwdlFobmNpSUJLK0FlOHpaN2M5bXdaY2JSWjBqbnZtSmN6cnRZZFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzQyNTA5CWZpbGU6U0lKSUxfMS4wLjFfeDY0LXNldHVwLmV4ZQpLTzBaMk1QUGpLOU9Lckhja2c2bXlRQS8zMEJ1WlQ3cTU4NzZXT2FyQUFNVkIxNURrVzhHS1RmS3dJck5WdHlUU1JMYnA2SG0vRTdISys0RW5ZL0VCdz09Cg==",
-      "url": "https://github.com/amazonalenezi/SIJIL-Releases/releases/download/v1.0.1/SIJIL_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMWcvaDduL21MTE9icys4cDZrVlo4NDlvRFRhZjdPdzMrUTc1RDhycEpaSW56YXlOamJGSkRxSHR4VEd0azVSd3JLVkdQUEh1QVpseWNCOFBtZGdLeWxEQ3dxeXM1T2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDQyNTMxCWZpbGU6U0lKSUxfMS4wLjJfeDY0LXNldHVwLmV4ZQpET3o0NURBdU0wVHNtak9LOHJQT2tSTHR2U2NTRFE0dHR6cG5US1JYWkRlb21RK3BBWWxFY0NQOGxiZVhXY281N0xGcU1XcUhsNm5KZENlak10bkxEZz09Cg==",
+      "url": "https://github.com/amazonalenezi/SIJIL-Releases/releases/download/v1.0.2/SIJIL_1.0.2_x64-setup.exe"
     }
   }
 }
